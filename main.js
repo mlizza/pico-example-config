@@ -1,5 +1,5 @@
 T({
-  name: "test01",
+  name: "test-web",
   url: "https://github.com/mlizza/pico-example-target.git",
   up: ["docker-compose", "up", "-d"],
   down: ["docker-compose", "down"],
