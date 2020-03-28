@@ -1,6 +1,6 @@
 T({
   name: "pico-test-one",
-  url: "https://github.com/mlizza/pico-example-target.git?ref=1.0.0",
+  url: "https://github.com/mlizza/pico-example-targeto.git",
   up: ["docker-compose", "up", "-d"],
   down: ["docker-compose", "down"],
   branch: "master"
